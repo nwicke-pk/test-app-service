@@ -1,0 +1,14 @@
+C:\Users\nwicke\Documents\source\test-app-service\bin\Debug\netcoreapp2.2\test-app-service.deps.json
+C:\Users\nwicke\Documents\source\test-app-service\bin\Debug\netcoreapp2.2\test-app-service.runtimeconfig.json
+C:\Users\nwicke\Documents\source\test-app-service\bin\Debug\netcoreapp2.2\test-app-service.runtimeconfig.dev.json
+C:\Users\nwicke\Documents\source\test-app-service\bin\Debug\netcoreapp2.2\test-app-service.dll
+C:\Users\nwicke\Documents\source\test-app-service\bin\Debug\netcoreapp2.2\test-app-service.pdb
+C:\Users\nwicke\Documents\source\test-app-service\obj\Debug\netcoreapp2.2\test-app-service.csprojAssemblyReference.cache
+C:\Users\nwicke\Documents\source\test-app-service\obj\Debug\netcoreapp2.2\test-app-service.csproj.CoreCompileInputs.cache
+C:\Users\nwicke\Documents\source\test-app-service\obj\Debug\netcoreapp2.2\test-app-service.RazorAssemblyInfo.cache
+C:\Users\nwicke\Documents\source\test-app-service\obj\Debug\netcoreapp2.2\test-app-service.RazorAssemblyInfo.cs
+C:\Users\nwicke\Documents\source\test-app-service\obj\Debug\netcoreapp2.2\test-app-service.AssemblyInfoInputs.cache
+C:\Users\nwicke\Documents\source\test-app-service\obj\Debug\netcoreapp2.2\test-app-service.AssemblyInfo.cs
+C:\Users\nwicke\Documents\source\test-app-service\obj\Debug\netcoreapp2.2\test-app-service.RazorTargetAssemblyInfo.cache
+C:\Users\nwicke\Documents\source\test-app-service\obj\Debug\netcoreapp2.2\test-app-service.dll
+C:\Users\nwicke\Documents\source\test-app-service\obj\Debug\netcoreapp2.2\test-app-service.pdb
